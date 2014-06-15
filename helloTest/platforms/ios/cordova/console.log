@@ -1,0 +1,23 @@
+2014-06-13 13:13:43.254 HelloTest[5343:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-13 13:13:43.263 HelloTest[5343:70b] Unlimited access to network resources
+2014-06-13 13:13:43.267 HelloTest[5343:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-13 13:13:43.422 HelloTest[5343:70b] Resetting plugins due to page load.
+2014-06-13 13:13:43.508 HelloTest[5343:70b] Finished load of: file:///Users/kumara1/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/75F84D58-2DD2-471F-BFA8-D0FA161B0229/HelloTest.app/www/index.html
+2014-06-15 00:40:46.056 HelloTest[1867:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-15 00:40:46.062 HelloTest[1867:70b] Unlimited access to network resources
+2014-06-15 00:40:46.065 HelloTest[1867:70b] Fix applied for database locations?: YES
+2014-06-15 00:40:46.065 HelloTest[1867:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-15 00:40:46.200 HelloTest[1867:70b] Resetting plugins due to page load.
+2014-06-15 00:40:46.295 HelloTest[1867:70b] Finished load of: file:///Users/kumara1/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FE879222-0B17-47E7-83C1-7A089E7948AF/HelloTest.app/www/index.html
